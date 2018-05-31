@@ -9,7 +9,7 @@ Once you receive your login to your Azure Subscription, follow these steps:
 Visit the [Azure Portal](https://portal.azure.com) and login with the credentials provided. 
 
 From the Dashboard, look in All Resources and select the `databricks-labs` service. 
-![dashboard](Images/dashboard.png.)
+![dashboard](Images/dashboard.png)
 
 Within the Azure Databricks Service instance, select `Launch Workspace`.
 
