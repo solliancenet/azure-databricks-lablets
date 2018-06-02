@@ -31,7 +31,7 @@ From the Workspace, select Users, your user and then select the student folder t
 
 ![lab options](Images/lab-options.png)
 
-Within each lab, follow the instructions. Remember to run a cell you can press shift+enter when it has focus, or you can press the play icon in the top right corner of each cell.
+Within each lab, follow the instructions. Remember to run a cell you can press shift+enter when it has focus, or you can press the play icon in the top right corner of each cell. For each of the labs you should select and attach to the [labs-standard] cluster to run your code, which you can select by using the deatached/attached dropdown in the top left corner of your notebook.  
 
 ## Using these Labs in your own Azure Subscription
 These labs are intended to be used within a pre-provisioned lab environment, but you can download them and use these labs in your own Azure subscription. Just follow the instructions in the Setup folder of this repo. 
